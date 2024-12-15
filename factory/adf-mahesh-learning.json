@@ -1,0 +1,9 @@
+{
+	"name": "adf-mahesh-learning",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e101a650-1200-40a9-a56f-199012e47854",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}

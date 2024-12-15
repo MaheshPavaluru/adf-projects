@@ -1,0 +1,18 @@
+{
+	"name": "selectedFileTrigger",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 30,
+				"startTime": "2024-12-13T16:47:00",
+				"endTime": "2024-12-13T17:21:00",
+				"timeZone": "Pacific Standard Time"
+			}
+		}
+	}
+}
